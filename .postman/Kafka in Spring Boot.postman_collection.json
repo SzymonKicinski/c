@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "ffa5a1f9-2436-4d3c-991c-b733febeeefc",
+		"name": "Kafka in Spring Boot",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "MessageRead",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		},
+		{
+			"name": "MessageRead batch",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": null
+			},
+			"response": []
+		}
+	]
+}
